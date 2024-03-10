@@ -11,7 +11,8 @@ spring:
          # search-locations: "classpath:/config"
          # search-locations: "file:///D://config"
         git:
-          uri: "https://github.com/eazybytes/eazybytes-config.git"
+          # uri: "https://github.com/eazybytes/eazybytes-config.git"
+          uri: "https://github.com/sunnydanish/practice.git"
           default-label: main
           timeout: 5
           clone-on-start: true
